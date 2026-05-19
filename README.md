@@ -1,13 +1,13 @@
-# Hey Folks! 👋 I'm Devashish Wankhade from 🇮🇳
+# Hey Folks! 👋 I'm Devashish Wankhade
 
-I'm passionate about **AI/ML** and building intelligent systems that solve real-world problems. Currently diving deep into computer vision, deep learning, and deploying end-to-end ML pipelines.
+I'm passionate about **Python** and building intelligent systems that solve real-world problems. Currently diving deep into computer vision, deep learning, and deploying end-to-end ML pipelines.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 **DBDA** at CDAC Bangalore (Aug 2025 – Feb 2026)
-- 🤖 Interested in **Computer Vision**, **NLP**, and **Real-time AI Systems**
+- 🤖 Interested in **Python**, **MySQL**, and **Machine Learning**
 - 🌱 Currently exploring **TensorFlow**, **MediaPipe**, and **Streamlit**
 - 💡 I love turning data into meaningful, accessible solutions
 
