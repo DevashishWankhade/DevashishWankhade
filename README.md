@@ -37,7 +37,7 @@ I'm passionate about **Python** and building intelligent systems that solve real
 
 ## 📬 Contact Me
 
-- 📧 Email: devashishwankhade@gmail.com
+- 📧 Email: devashish10wankhade@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/devashishwankhade](https://www.linkedin.com/in/devashishwankhade)
 
 ---
